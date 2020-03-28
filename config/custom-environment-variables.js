@@ -1,0 +1,6 @@
+module.exports = {
+  env: 'NODE_ENV',
+  port: 'PORT',
+  host: 'HOST',
+  pgUrl: 'PG_URL',
+};
